@@ -1,6 +1,6 @@
 operator:
   enabled: true
 alertmanager:
-  enabled: false
+  enabled: true
 blackboxExporter:
-  enabled: false
+  enabled: true
